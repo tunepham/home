@@ -23,7 +23,7 @@ repository               : "TunPham54/tungpham.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Sprite-500w750h.jpg"
   name             : "Tung Pham"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
