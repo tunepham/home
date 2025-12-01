@@ -23,7 +23,7 @@ repository               : "tunepham/home"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Sprite-500w750h.jpg"
+  avatar           : "avatar.jpg"
   name             : "Tung Pham"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
