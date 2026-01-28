@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hi there, I'm Tung"
+title: "Xin chào"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<b>Hi there, I'm Tung</b>.
 
 I'm an undergraduate student studying [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University. This is my personal website where I provide insights and updates on my academic and daily activities.
 

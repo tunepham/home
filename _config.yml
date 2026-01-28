@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tung Pham"
@@ -26,8 +26,8 @@ author:
   avatar           : "avatar.jpg"
   name             : "Tung Pham"
   pronouns         : # example: "she/her"  
-  bio              : "I ♡ Edge AI, Digital Twins, Sports, Music Production"
-  location         : "Indiana , USA"
+  bio              : "I ♡ Edge AI, Digital Twins, Sports, and Music Production"
+  location         : "IN , USA"
   employer         : "Purdue University"
   uri              : # URL
   email            : "tungphamgia2004@gmail.com" 
@@ -71,7 +71,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : "tuneeeep"
-  steam            : "johnnypham54"
+  steam            : "jpham4002"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
