@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm Tung"
+title: "Hi there, I'm Tung"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I've been playing badminton for the longest period since 8, and swimming since 6
 
 Besides sport, I'm also a music person. Not the regular music guy who only listen to music of many kinds but I picked up some piano lessons (not online) a year before college and was lucky enough to performed on stage at my high school prom night. Sometimes when I bumped into a really good song, I felt like simply listening to it was not enough for me so I either tried to do a remake or a cover of that song. So that gotten me into some serious music production where I tried to recreate track that I'm into or create my own piece.
 
-A brief introduction of me might not be enough so if you are interested in my stories, I usually post my insights and updates on my past experiences and expectations for what's coming at the <b>Blog Posts</b> tab. My posts could either be technical or just simply my thoughts on somethings, but in short, you could expect some interesting feeds there. 
+A brief introduction of me might not be enough so if you are interested in my stories, I usually post my insights and updates on my past experiences and expectations for what's coming at the <b>Blog Posts</b> tab. My posts could either be technical or just simply my thoughts on somethings, but in short, you could expect some interesting feeds there 
 
 
 
