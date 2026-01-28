@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tung Pham"
@@ -26,7 +26,7 @@ author:
   avatar           : "avatar.jpg"
   name             : "Tung Pham"
   pronouns         : # example: "she/her"  
-  bio              : "I ♡ Edge AI, Digital Twins, Sports, and Music Production"
+  bio              : "I ❤︎ Edge AI, Digital Twins, Sports, and Music Production"
   location         : "IN , USA"
   employer         : "Purdue University"
   uri              : # URL
