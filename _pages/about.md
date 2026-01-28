@@ -1,13 +1,22 @@
 ---
 permalink: /
-title: "Hi there, I'm Tung"
+title: "I'm Tung"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm an undergraduate student studying [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University. This is my personal website where I provide insights and updates on my academic activities.  
+I'm an undergraduate student studying [Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University. This is my personal website where I provide insights and updates on my academic and daily activities.
+
+I'm very into sports (badminton, swimming, pool, track) and outdoor activities in general.
+I've been playing badminton for the longest period since 8, and swimming since 6. I still clearly remember that all of this love for sport that I have was thanks to my dad. He taught me how to play badminton and introduced me to swimming at a very young age and having head start actually helped me in the following years when competing with others. Speaking of competition, I also competed regionally in track and field and badminton during middle school. Pool is somewhat "new" to me as I only started playing regularly in my sophomore year until now.
+
+Besides sport, I'm also a music person. Not the regular music guy who only listen to music of many kinds but I picked up some piano lessons (not online) a year before college and was lucky enough to performed on stage at my high school prom night. Sometimes when I bumped into a really good song, I felt like simply listening to it was not enough for me so I either tried to do a remake or a cover of that song. So that gotten me into some serious music production where I tried to recreate track that I'm into or create my own piece.
+
+A brief introduction of me might not be enough so if you are interested in my stories, I usually post my insights and updates on my past experiences and expectations for what's coming at the <b>Blog Posts<b> tab. My posts could either be technical or just simply my thoughts on somethings, but in short, you could expect some interesting feeds there. 
+
+
 
 
 <!---
